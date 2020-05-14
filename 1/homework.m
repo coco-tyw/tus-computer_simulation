@@ -1,4 +1,5 @@
-clear close all
+clear all
+close all
 
 t = linspace(0,2*pi,100);
 r = 10;

@@ -1,4 +1,5 @@
-clear close all
+clear all
+close all
 
 x = 0:100;
 hold on
